@@ -1,0 +1,7 @@
+2024/11/16-00:13:35.599 197a Reusing MANIFEST /home/luci/.config/BraveSoftware/Brave-Browser/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/16-00:13:35.599 197a Recovering log #3
+2024/11/16-00:13:35.602 197a Reusing old log /home/luci/.config/BraveSoftware/Brave-Browser/Default/WebStorage/4/IndexedDB/indexeddb.leveldb/000003.log 
+2024/11/16-00:13:35.634 197a Level-0 table #5: started
+2024/11/16-00:13:35.637 197a Level-0 table #5: 109535 bytes OK
+2024/11/16-00:13:35.640 197a Delete type=0 #3
+2024/11/16-00:13:35.641 1978 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

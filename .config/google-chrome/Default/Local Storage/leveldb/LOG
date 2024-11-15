@@ -1,0 +1,5 @@
+2024/11/13-19:13:38.394 4 Creating DB /home/luci/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2024/11/13-19:13:38.405 4 Reusing MANIFEST /home/luci/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/11/13-19:22:48.600 4 Level-0 table #5: started
+2024/11/13-19:22:48.607 4 Level-0 table #5: 27518 bytes OK
+2024/11/13-19:22:48.612 4 Delete type=0 #3

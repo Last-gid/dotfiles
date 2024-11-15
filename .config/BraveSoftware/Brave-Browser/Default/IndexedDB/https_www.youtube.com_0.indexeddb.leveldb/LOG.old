@@ -1,0 +1,6 @@
+2024/11/15-17:16:27.811 3e7 Reusing MANIFEST /home/luci/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-17:16:27.811 3e7 Recovering log #7
+2024/11/15-17:16:27.822 3e7 Reusing old log /home/luci/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2024/11/15-19:38:56.946 3e7 Level-0 table #12: started
+2024/11/15-19:38:56.958 3e7 Level-0 table #12: 1345556 bytes OK
+2024/11/15-19:38:56.963 3e7 Delete type=0 #7

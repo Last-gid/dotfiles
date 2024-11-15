@@ -1,0 +1,6 @@
+2024/11/13-19:15:02.928 17c5 Creating DB /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb since it was missing.
+2024/11/13-19:15:02.932 17c5 Reusing MANIFEST /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/13-19:15:02.937 17c5 Level-0 table #5: started
+2024/11/13-19:15:02.938 17c5 Level-0 table #5: 642 bytes OK
+2024/11/13-19:15:02.941 17c5 Delete type=0 #3
+2024/11/13-19:15:02.941 17c5 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,9 @@
+2024/11/16-00:13:31.679 197a Reusing MANIFEST /home/luci/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/16-00:13:31.680 197a Recovering log #11
+2024/11/16-00:13:31.681 197a Reusing old log /home/luci/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2024/11/16-00:13:35.279 1979 Compacting 1@1 + 1@2 files
+2024/11/16-00:13:35.286 1979 Generated table #14@1: 324 keys, 32317 bytes
+2024/11/16-00:13:35.286 1979 Compacted 1@1 + 1@2 files => 32317 bytes
+2024/11/16-00:13:35.288 1979 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/16-00:13:35.288 1979 Delete type=2 #12
+2024/11/16-00:13:35.288 1979 Delete type=2 #9

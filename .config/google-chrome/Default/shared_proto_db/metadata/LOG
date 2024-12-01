@@ -1,2 +1,3 @@
-2024/11/13-19:13:38.414 17ce Creating DB /home/luci/.config/google-chrome/Default/shared_proto_db/metadata since it was missing.
-2024/11/13-19:13:38.421 17ce Reusing MANIFEST /home/luci/.config/google-chrome/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/11/21-00:43:56.859 2bd9 Reusing MANIFEST /home/luci/.config/google-chrome/Default/shared_proto_db/metadata/MANIFEST-000001
+2024/11/21-00:43:56.859 2bd9 Recovering log #3
+2024/11/21-00:43:56.860 2bd9 Reusing old log /home/luci/.config/google-chrome/Default/shared_proto_db/metadata/000003.log 

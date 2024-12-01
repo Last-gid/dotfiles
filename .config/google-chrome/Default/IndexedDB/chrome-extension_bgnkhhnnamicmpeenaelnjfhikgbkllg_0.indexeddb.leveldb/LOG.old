@@ -1,0 +1,14 @@
+2024/11/21-00:43:43.844 2a85 Reusing MANIFEST /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-00:43:43.844 2a85 Recovering log #10
+2024/11/21-00:43:43.845 2a85 Reusing old log /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000010.log 
+2024/11/21-00:43:43.845 2a85 Delete type=2 #8
+2024/11/21-00:43:43.852 2a87 Level-0 table #15: started
+2024/11/21-00:43:43.855 2a87 Level-0 table #15: 219156 bytes OK
+2024/11/21-00:43:43.859 2a87 Delete type=0 #10
+2024/11/21-00:43:43.859 2a85 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 625 : 1
+2024/11/21-00:43:43.859 2a85 Compacting 1@0 + 1@1 files
+2024/11/21-00:43:43.863 2a85 Generated table #16@0: 212 keys, 217725 bytes
+2024/11/21-00:43:43.863 2a85 Compacted 1@0 + 1@1 files => 217725 bytes
+2024/11/21-00:43:43.865 2a85 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/21-00:43:43.866 2a85 Delete type=2 #15
+2024/11/21-00:43:43.866 2a85 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 625 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

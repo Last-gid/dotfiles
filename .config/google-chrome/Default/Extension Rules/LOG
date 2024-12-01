@@ -1,2 +1,3 @@
-2024/11/13-19:13:38.398 17de Creating DB /home/luci/.config/google-chrome/Default/Extension Rules since it was missing.
-2024/11/13-19:13:38.405 17de Reusing MANIFEST /home/luci/.config/google-chrome/Default/Extension Rules/MANIFEST-000001
+2024/11/21-00:41:29.361 2753 Reusing MANIFEST /home/luci/.config/google-chrome/Default/Extension Rules/MANIFEST-000001
+2024/11/21-00:41:29.361 2753 Recovering log #3
+2024/11/21-00:41:29.361 2753 Reusing old log /home/luci/.config/google-chrome/Default/Extension Rules/000003.log 

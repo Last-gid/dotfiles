@@ -1,2 +1,3 @@
-2024/11/13-19:13:48.793 17c5 Creating DB /home/luci/.config/google-chrome/Default/Service Worker/Database since it was missing.
-2024/11/13-19:13:48.797 17c5 Reusing MANIFEST /home/luci/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
+2024/11/21-00:43:56.733 2bcd Reusing MANIFEST /home/luci/.config/google-chrome/Default/Service Worker/Database/MANIFEST-000001
+2024/11/21-00:43:56.733 2bcd Recovering log #3
+2024/11/21-00:43:56.733 2bcd Reusing old log /home/luci/.config/google-chrome/Default/Service Worker/Database/000003.log 

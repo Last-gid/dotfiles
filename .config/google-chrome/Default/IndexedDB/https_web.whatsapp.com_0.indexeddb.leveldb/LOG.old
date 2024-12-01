@@ -1,0 +1,48 @@
+2024/11/21-00:41:29.863 2754 Reusing MANIFEST /home/luci/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-00:41:29.864 2754 Recovering log #775
+2024/11/21-00:41:29.873 2754 Reusing old log /home/luci/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000775.log 
+2024/11/21-00:41:29.873 2754 Delete type=2 #760
+2024/11/21-00:41:29.873 2754 Delete type=2 #758
+2024/11/21-00:41:29.873 2754 Delete type=2 #774
+2024/11/21-00:41:29.873 2754 Delete type=2 #766
+2024/11/21-00:41:29.873 2754 Delete type=2 #777
+2024/11/21-00:41:29.873 2754 Delete type=2 #763
+2024/11/21-00:41:29.873 2754 Delete type=2 #764
+2024/11/21-00:41:29.873 2754 Delete type=2 #761
+2024/11/21-00:41:29.873 2754 Delete type=2 #765
+2024/11/21-00:41:29.873 2754 Delete type=2 #762
+2024/11/21-00:41:29.873 2754 Delete type=2 #759
+2024/11/21-00:41:32.085 275e Level-0 table #791: started
+2024/11/21-00:41:32.093 275e Level-0 table #791: 165312 bytes OK
+2024/11/21-00:41:32.096 275e Delete type=0 #775
+2024/11/21-00:41:32.096 2754 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x19\x00\x00\x05' @ 2540089 : 1
+2024/11/21-00:41:32.096 2754 Compacting 1@0 + 0@1 files
+2024/11/21-00:41:32.103 2754 Generated table #792@0: 5198 keys, 94499 bytes
+2024/11/21-00:41:32.103 2754 Compacted 1@0 + 0@1 files => 94499 bytes
+2024/11/21-00:41:32.105 2754 compacted to: files[ 0 1 14 0 0 0 0 ]
+2024/11/21-00:41:32.105 2754 Delete type=2 #791
+2024/11/21-00:41:32.106 2754 Manual compaction at level-0 from '\x00\x19\x00\x00\x05' @ 2540089 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/21-00:41:32.221 2754 Compacting 1@1 + 10@2 files
+2024/11/21-00:41:32.285 2754 Generated table #793@1: 44907 keys, 2218654 bytes
+2024/11/21-00:41:32.368 2754 Generated table #794@1: 44062 keys, 2217153 bytes
+2024/11/21-00:41:32.428 2754 Generated table #795@1: 29932 keys, 2198170 bytes
+2024/11/21-00:41:32.442 2754 Generated table #796@1: 1841 keys, 2148470 bytes
+2024/11/21-00:41:32.461 2754 Generated table #797@1: 2309 keys, 2155631 bytes
+2024/11/21-00:41:32.477 2754 Generated table #798@1: 2738 keys, 2157595 bytes
+2024/11/21-00:41:32.496 2754 Generated table #799@1: 4898 keys, 2156615 bytes
+2024/11/21-00:41:32.564 2754 Generated table #800@1: 27524 keys, 2267025 bytes
+2024/11/21-00:41:32.615 2754 Generated table #801@1: 28460 keys, 2231527 bytes
+2024/11/21-00:41:32.648 2754 Generated table #802@1: 25658 keys, 2165853 bytes
+2024/11/21-00:41:32.649 2754 Compacted 1@1 + 10@2 files => 21916693 bytes
+2024/11/21-00:41:32.652 2754 compacted to: files[ 0 0 14 0 0 0 0 ]
+2024/11/21-00:41:32.652 2754 Delete type=2 #780
+2024/11/21-00:41:32.652 2754 Delete type=2 #778
+2024/11/21-00:41:32.652 2754 Delete type=2 #792
+2024/11/21-00:41:32.652 2754 Delete type=2 #785
+2024/11/21-00:41:32.652 2754 Delete type=2 #779
+2024/11/21-00:41:32.652 2754 Delete type=2 #786
+2024/11/21-00:41:32.652 2754 Delete type=2 #782
+2024/11/21-00:41:32.652 2754 Delete type=2 #784
+2024/11/21-00:41:32.652 2754 Delete type=2 #787
+2024/11/21-00:41:32.652 2754 Delete type=2 #783
+2024/11/21-00:41:32.653 2754 Delete type=2 #781

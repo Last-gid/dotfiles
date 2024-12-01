@@ -1,6 +1,14 @@
-2024/11/13-19:15:02.928 17c5 Creating DB /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb since it was missing.
-2024/11/13-19:15:02.932 17c5 Reusing MANIFEST /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
-2024/11/13-19:15:02.937 17c5 Level-0 table #5: started
-2024/11/13-19:15:02.938 17c5 Level-0 table #5: 642 bytes OK
-2024/11/13-19:15:02.941 17c5 Delete type=0 #3
-2024/11/13-19:15:02.941 17c5 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/21-00:43:57.411 2bcd Reusing MANIFEST /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-00:43:57.411 2bcd Recovering log #14
+2024/11/21-00:43:57.411 2bcd Reusing old log /home/luci/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000014.log 
+2024/11/21-00:43:57.411 2bcd Delete type=2 #12
+2024/11/21-00:43:57.417 2bcd Level-0 table #19: started
+2024/11/21-00:43:57.418 2bcd Level-0 table #19: 623 bytes OK
+2024/11/21-00:43:57.420 2bcd Delete type=0 #14
+2024/11/21-00:43:57.421 2bcd Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at '\x00\x06\x00\x00\x05' @ 644 : 1
+2024/11/21-00:43:57.421 2bcd Compacting 1@0 + 1@1 files
+2024/11/21-00:43:57.423 2bcd Generated table #20@0: 213 keys, 217771 bytes
+2024/11/21-00:43:57.423 2bcd Compacted 1@0 + 1@1 files => 217771 bytes
+2024/11/21-00:43:57.425 2bcd compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/21-00:43:57.426 2bcd Delete type=2 #19
+2024/11/21-00:43:57.426 2bcd Manual compaction at level-0 from '\x00\x06\x00\x00\x05' @ 644 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)

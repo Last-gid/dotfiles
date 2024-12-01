@@ -1,2 +1,3 @@
-2024/11/13-19:15:13.309 17c6 Creating DB /home/luci/.config/google-chrome/Default/Local Extension Settings/kdfieneakcjfaiglcfcgkidlkmlijjnh since it was missing.
-2024/11/13-19:15:13.313 17c6 Reusing MANIFEST /home/luci/.config/google-chrome/Default/Local Extension Settings/kdfieneakcjfaiglcfcgkidlkmlijjnh/MANIFEST-000001
+2024/11/21-00:43:43.715 2a85 Reusing MANIFEST /home/luci/.config/google-chrome/Default/Local Extension Settings/kdfieneakcjfaiglcfcgkidlkmlijjnh/MANIFEST-000001
+2024/11/21-00:43:43.715 2a85 Recovering log #3
+2024/11/21-00:43:43.715 2a85 Reusing old log /home/luci/.config/google-chrome/Default/Local Extension Settings/kdfieneakcjfaiglcfcgkidlkmlijjnh/000003.log 
